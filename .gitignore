@@ -1,1 +1,5 @@
 /GoogleService-Info.plist
+.DS_Store
+*.xcuserstate
+SUP Parking.xcodeproj/project.xcworkspace/xcuserdata/pyaesonehein.xcuserdatad/UserInterfaceState.xcuserstate
+GoogleService-Info.plist
